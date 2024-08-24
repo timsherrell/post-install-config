@@ -2,7 +2,10 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
+<h1>osTicket - Post-Install Configuration (Draft)</h1>
+
+**Note: This project is currently a work in progress. Updates and additional details are being added regularly.**
+
 This project outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
